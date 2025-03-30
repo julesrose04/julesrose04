@@ -10,5 +10,6 @@
 
 📚 Libraries : Pandas, NumPy, SciPy, Matplotlib, dplyr, tidyr, ggplot2
 
-🔧 Tools : Jupyter Notebook, RStudio, PostgreSQL, pgAdmin GeoDa, VS Code, Excel, 
+🔧 Tools : Jupyter Notebook, RStudio, PostgreSQL, pgAdmin GeoDa, VS Code, Excel
 
+[![Jules' GitHub Stats](https://github-readme-stats.vercel.app/api?username=julesrose04)](https://github.com/julesrose04/github-readme-stats)
