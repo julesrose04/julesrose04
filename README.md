@@ -12,4 +12,4 @@
 
 🔧 Tools : Jupyter Notebook, RStudio, PostgreSQL, pgAdmin GeoDa, VS Code, Excel
 
-[![Jules' GitHub Stats](https://github-readme-stats.vercel.app/api?username=julesrose04)](https://github.com/julesrose04/github-readme-stats)
+[![Jules' GitHub Stats](https://github-readme-stats.vercel.app/api?username=julesrose04&show_icons=true&theme=dracula)](https://github.com/julesrose04/github-readme-stats)
