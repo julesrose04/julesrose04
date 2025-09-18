@@ -12,6 +12,6 @@
 
 🔧 Tools : Jupyter Notebook, RStudio, PostgreSQL, pgAdmin, GeoDa, VS Code, Excel
 
-[![Jules' GitHub Stats](https://github-readme-stats.vercel.app/api?username=julesrose04&show_icons=true&theme=dracula)](https://github.com/julesrose04/github-readme-stats)
+[![Jules' GitHub stats](https://github-readme-stats.vercel.app/api?username=ajulesrose04)](https://github.com/julesrose04/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=julesrose04&theme=dracula)](https://github.com/julesrose04/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=julesrose04)](https://github.com/julesrose04/github-readme-stats)
