@@ -8,10 +8,7 @@
 
 ⌨️ Languages : Python, SQL, and R
 
-📚 Libraries : Pandas, NumPy, SciPy, Matplotlib, dplyr, tidyr, ggplot2
+📚 Libraries : Pandas, NumPy, SciPy, Matplotlib, Sklearn, dplyr, tidyr, ggplot2
 
-🔧 Tools : Jupyter Notebook, RStudio, PostgreSQL, pgAdmin, GeoDa, VS Code, Excel
+🔧 Tools : Jupyter Notebook, R, RStudio, PostgreSQL, pgAdmin, GeoDa, VS Code, Excel
 
-[![Jules' GitHub stats](https://github-readme-stats.vercel.app/api?username=julesrose04&theme=dracula)](https://github.com/julesrose04/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=julesrose04&theme=dracula)](https://github.com/julesrose04/github-readme-stats)
